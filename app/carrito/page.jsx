@@ -7,10 +7,10 @@ import fomatearDinero from '@/helpers/dinero';
 import styles from '@/styles/carrito.module.css';
 
 
-export const metadata = {
-  title: 'GuitarLA - Carrito',
-  description: 'Tienda de guitarras, GuitarLA, Cursos, Blog y Guitarras'
-}
+// export const metadata = {
+//   title: 'GuitarLA - Carrito',
+//   description: 'Tienda de guitarras, GuitarLA, Cursos, Blog y Guitarras'
+// }
 
 const Page = () => {
 

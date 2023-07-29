@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export const metadata = {
-  title: 'GuitarLA - Not Found'
-}
+// export const metadata = {
+//   title: 'GuitarLA - Not Found'
+// }
 
 
 const Pagina404 = () => {

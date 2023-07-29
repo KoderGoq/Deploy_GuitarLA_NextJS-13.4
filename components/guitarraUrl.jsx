@@ -73,7 +73,7 @@ const GuitarraID = ({ guitarra }) => {
         >
           <label htmlFor='cantidad'>Cantidad</label>
           <select
-            value={'0'}
+            value={cantidad}
             onChange={e => setCantidad(+e.target.value)}
             id='cantidad'
           >

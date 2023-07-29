@@ -3,7 +3,7 @@ import styles from '@/styles/grid.module.css';
 import { getGuitarras } from '@/data/getGuitarras';
 
 export const metadata = {
-  title: 'GuitarLA - Tienda',
+  title: 'GuitarLA - Guitarras',
   description: 'Tienda de Guitarras, Guitarras, Blog, NextJS'
 }
 
